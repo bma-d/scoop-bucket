@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bma-d/tmux-visualiser/releases/download/v1.0.0/tmux-visualiser_1.0.0_windows_amd64.zip",
+            "bin": [
+                "tmux-visualiser.exe"
+            ],
+            "hash": "cfe9e32689120e3c2771c50ca2cea10302fd697da09e5b43b14206258d9f1e5e"
+        },
+        "arm64": {
+            "url": "https://github.com/bma-d/tmux-visualiser/releases/download/v1.0.0/tmux-visualiser_1.0.0_windows_arm64.zip",
+            "bin": [
+                "tmux-visualiser.exe"
+            ],
+            "hash": "1527614d9241222289aa87e9b0b9167a4a15991bd3fafde4228e86f11fd38a51"
+        }
+    },
+    "homepage": "https://github.com/bma-d/tmux-visualiser",
+    "description": "Live tmux session visualiser for your terminal."
+}
