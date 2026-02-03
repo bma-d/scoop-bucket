@@ -1,19 +1,19 @@
 {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bma-d/tmux-visualiser/releases/download/v1.0.2/tmux-visualiser_1.0.2_windows_amd64.zip",
+            "url": "https://github.com/bma-d/tmux-visualiser/releases/download/v1.1.0/tmux-visualiser_1.1.0_windows_amd64.zip",
             "bin": [
                 "tmux-visualiser.exe"
             ],
-            "hash": "2a2313853ae5cadf314a6b9320d03f66656458232a77b7d7fbe8810058d25f49"
+            "hash": "5cae00ab1e464a9f5aedd93800b3502a7376e2dec294f3cda477d195494de3a4"
         },
         "arm64": {
-            "url": "https://github.com/bma-d/tmux-visualiser/releases/download/v1.0.2/tmux-visualiser_1.0.2_windows_arm64.zip",
+            "url": "https://github.com/bma-d/tmux-visualiser/releases/download/v1.1.0/tmux-visualiser_1.1.0_windows_arm64.zip",
             "bin": [
                 "tmux-visualiser.exe"
             ],
-            "hash": "9b23ce7ebc1a342ace7490e85a20ea9f05c57ad1a4f080f5df1b01e777ad5939"
+            "hash": "9fbbf5added8fa78dc6fd622e1a920e93d74d4e31f1fbee7b6f7ce26dd496c8a"
         }
     },
     "homepage": "https://github.com/bma-d/tmux-visualiser",
